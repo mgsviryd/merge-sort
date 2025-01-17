@@ -1,4 +1,4 @@
-package com.sviryd.mikhail;
+package com.sviryd.merge_sort;
 
 import com.google.common.collect.Ordering;
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-package com.sviryd.mikhail;
+package com.sviryd.merge_sort;
 
 import java.util.ArrayList;
 import java.util.List;
